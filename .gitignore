@@ -453,5 +453,5 @@ temp.txt
 
 #html crap
 
-.html
-.php
+*.html
+*.php
